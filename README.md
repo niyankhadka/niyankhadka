@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyankhadka
 - 👀 I’m interested in programming and research on internet.
-- 🌱 I’m currently learning php core and laravel framwork.
+- 🌱 I’m currently learning php core and laravel framework.
 - 💞️ I’m looking to collaborate on ecommerce new platform and forum of technology.
 - 📫 You can reach me from email : niyankhadka.nk@gmail.com
 
