@@ -1,58 +1,38 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nirajan;Lead+Web+Developer+%26+Systems+Architect;DESIGN.+BUILD.+LEAD." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=DESIGN.+BUILD.+LEAD.;Connecting+your+brand+to+the+digital+world." alt="Typing SVG" /><!-- -->
 
-*Connecting your brand to the digital world.*
+> **Hi, I'm Nirajan.** I build scalable web platforms from complex ideas. I automate daily operations to keep businesses running smoothly. Through targeted marketing and team leadership, I turn these systems into engines for consistent growth.<!-- -->
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nbk.com.np-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00E5FF&border=00E5FF)](https://nbk.com.np)
-[![Email](https://img.shields.io/badge/Email-hello%40nbk.com.np-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&border=EA4335)](mailto:hello@nbk.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-@niyankhadka-0D1117?style=for-the-badge&logo=github&logoColor=white&border=white)](https://github.com/niyankhadka)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/nbk.com.np-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00E5FF&border=00E5FF)](https://nbk.com.np)<!-- -->
+[![Email](https://img.shields.io/badge/hello@nbk.com.np-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&border=EA4335)](mailto:hello@nbk.com.np)<!--[cite: 4] -->
 
 </div>
 
 <br/>
+<hr/>
 
-### 🚀 Architectural Focus
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>💻 Engineering Approach</b><br/>
-      Transforming complex Figma designs into high-performance WordPress builds and scalable SaaS architectures. Zero pre-made templates, clean modular code, and strict adherence to Core Web Vitals.
-    </td>
-    <td width="50%" valign="top">
-      <b>⚙️ Systems & Automation</b><br/>
-      Streamlining everyday operations with smart AI automations (n8n, Zapier) and seamless third-party API integrations while driving consistent business growth.
-    </td>
-  </tr>
-</table>
+### 🏗️ Architectural Capabilities
 
-### 📦 Featured Digital Experiences
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🏢 Corporate & SaaS</b><br/>
-      • <a href="https://figsflow.com/">Figs Flow</a><br/>
-      • <a href="https://boifincenreporting.com/">BOI FinCEN</a><br/>
-      • <a href="https://www.ukpropertyaccountants.co.uk/">UK Property Accountants</a><br/>
-      • <a href="https://sterlingandwells.com/">Sterling Wells</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>🏘️ Real Estate & Regional</b><br/>
-      • <a href="https://www.melcitypropertyservices.com.au/">Mel City Property</a><br/>
-      • <a href="https://bespokewoodflooring.co.uk/">Bespoke Wood Flooring</a><br/>
-      • <a href="https://www.deephomes.com.au/">Deep Homes</a><br/>
-      • <a href="https://nepaltaxes.com/">Nepal Taxes</a>
-    </td>
-    <td width="33%" valign="top">
-      <b>🎨 Global WP Themes</b><br/>
-      • <a href="https://wordpress.org/themes/gucherry-blog/">Gucherry Series</a><br/>
-      • <a href="https://wordpress.org/themes/grace-mag/">Grace Mag</a><br/>
-      • <a href="https://wordpress.org/themes/wishful-blog/">Wishful Blog</a>
-    </td>
-  </tr>
-</table>
+- **Bespoke WordPress Engineering:** Building 100% custom themes and plugins from scratch with clean PHP and JS, strictly avoiding bloated pre-made templates.<!--[cite: 4] -->
+- **SaaS & System Design:** Architecting scalable product logic, third-party API integrations, and robust in-house Content Management Systems (CMS).<!--[cite: 4] -->
+- **Business Automation:** Streamlining operations using smart AI automations (n8n, Zapier) and CRM workflows (HubSpot, ClickUp).<!--[cite: 4] -->
+- **Performance & Visibility:** Tuning for 99+ Lighthouse scores, Core Web Vitals, and advanced technical SEO (Geo/AEO).<!--[cite: 4] -->
 
-### 🛠️ Core Stack
+<br/>
+
+### 🌐 Featured Digital Ecosystems
+
+| 🏢 SaaS & Corporate | 🏘️ Regional & Real Estate | 🎨 Global WP Themes |
+| :--- | :--- | :--- |
+| [Figs Flow](https://figsflow.com/)<br>[BOI FinCEN Reporting](https://boifincenreporting.com/)<br>[UK Property Accountants](https://www.ukpropertyaccountants.co.uk/)<br>[Sterling Wells](https://sterlingandwells.com/)<!--[cite: 4] --> | [Mel City Property Services](https://www.melcitypropertyservices.com.au/)<br>[Deep Homes](https://www.deephomes.com.au/)<br>[Nepal Taxes](https://nepaltaxes.com/)<br>[Shine Community Care](https://shinecommunitycare.com.au/)<!--[cite: 4] --> | [Gucherry Series](https://wordpress.org/themes/gucherry-blog/)<br>[Grace Mag](https://wordpress.org/themes/grace-mag/)<br>[Wishful Blog](https://wordpress.org/themes/wishful-blog/)<!--[cite: 4] --> |
+
+<br/>
+
+### ⚙️ Core Technology Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,react,nextjs,python,tailwind,threejs,git,github,figma,vite&perline=14" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,nextjs,python,threejs,tailwind,git,github,figma&theme=dark" /><!--[cite: 4] -->
 </p>
