@@ -13,85 +13,69 @@
 <details>
 <summary><h3>THE CRAFT &nbsp;·&nbsp; What I do</h3></summary>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<blockquote>
 <b>WordPress, any way you need it</b>
 <br /><br />
 <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Themes-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Plugins-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Builders-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#wordpress-development"><b>How I build</b></a>
-</blockquote>
 </td>
 <td width="50%" valign="top">
-<blockquote>
 <b>SaaS system design and architecture</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Design-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Data-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/APIs-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#system-design"><b>How I architect</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>Automation and AI</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Automate-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/APIs-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Core-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Webhooks-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Mapping-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#automation-ai"><b>How I automate</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Digital marketing and search</b>
 <br /><br />
 <img src="https://img.shields.io/badge/SEO-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/GEO%2FAEO-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Google-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Bing-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/GA4-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#digital-marketing"><b>How I grow traffic</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>Brand and creative</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Logo-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Identity-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Imagery-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Video-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Assets-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#brand-creative"><b>How I design</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Mentoring and team guidance</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Review-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Standards-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Git_Flow-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Docs-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Onboard-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#mentoring"><b>How I mentor</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>Business tools and setup</b>
 <br /><br />
 <img src="https://img.shields.io/badge/M365-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Google-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/HubSpot-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/ClickUp-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Slack-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#business-tools"><b>How I set up</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Seven capabilities, one operator</b>
 <br /><br />
 Full detail on each lives on the approach page.
 <br /><br />
 <a href="https://nbk.com.np/approach"><b>See the whole approach</b></a>
-</blockquote>
 </td>
 </tr>
 </table>
@@ -103,105 +87,85 @@ Full detail on each lives on the approach page.
 <details>
 <summary><h3>SELECTED WORK &nbsp;·&nbsp; The ones where the decisions mattered</h3></summary>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<blockquote>
 <b>NepFI</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Founder-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2026-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/nepfi/"><b>View case study</b></a>
-</blockquote>
 </td>
 <td width="50%" valign="top">
-<blockquote>
 <b>Newman</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Rebuild-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Accounting-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/newman/"><b>View case study</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>FigsFlow</b>
 <br /><br />
 <img src="https://img.shields.io/badge/SaaS-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Plugin-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2025-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/figsflow/"><b>View case study</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Bespoke Wood Flooring</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Luxury-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Showroom-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/bespokewoodflooring/"><b>View case study</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>UK Property Accountants</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Finance-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Automation-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2023_to_now-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/ukpa/"><b>View case study</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Shruti's SOPA</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Ecommerce-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Branding-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/shrutissopa/"><b>View case study</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>Sterling &amp; Wells</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Global-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Lead_Gen-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/sterlingandwells/"><b>View case study</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Byaak Digital</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Agency-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Creative-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2025-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/byaakdigital/"><b>View case study</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <b>Crane &amp; Partners</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Rebuild-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Accounting-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2025-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/craneandpartners/"><b>View case study</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <b>Deep Cleaning</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Local_SEO-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Scaling-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/deepcleaning/"><b>View case study</b></a>
-</blockquote>
 </td>
 </tr>
 </table>
@@ -226,10 +190,9 @@ Full detail on each lives on the approach page.
 <details>
 <summary><h3>HOW I WORK &nbsp;·&nbsp; No surprises. That is the whole method.</h3></summary>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
-<blockquote>
 <img src="https://img.shields.io/badge/01-UNDERSTAND-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Before any code</b>
@@ -237,10 +200,8 @@ Full detail on each lives on the approach page.
 Who visits, what they need to do, and what working actually means in numbers. Most rebuilds fail because nobody wrote this part down.
 <br /><br />
 <a href="https://nbk.com.np/approach"><b>How I start</b></a>
-</blockquote>
 </td>
 <td width="50%" valign="top">
-<blockquote>
 <img src="https://img.shields.io/badge/02-ARCHITECT-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Decide the shape</b>
@@ -248,12 +209,10 @@ Who visits, what they need to do, and what working actually means in numbers. Mo
 Data model, templates, components, integrations, and where each will strain. Settled up front, so month six does not turn into a rewrite.
 <br /><br />
 <a href="https://nbk.com.np/approach#system-design"><b>How I architect</b></a>
-</blockquote>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<blockquote>
 <img src="https://img.shields.io/badge/03-BUILD-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Do the work</b>
@@ -261,10 +220,8 @@ Data model, templates, components, integrations, and where each will strain. Set
 Clean, commented, version controlled. Pixel accurate against the Figma file, and tested on the devices your visitors actually use rather than mine.
 <br /><br />
 <a href="https://nbk.com.np/approach#wordpress-development"><b>How I build</b></a>
-</blockquote>
 </td>
 <td valign="top">
-<blockquote>
 <img src="https://img.shields.io/badge/04-HAND_OVER-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Leave it usable</b>
@@ -272,7 +229,6 @@ Clean, commented, version controlled. Pixel accurate against the Figma file, and
 Documentation, a walkthrough, and an editing experience your team can run without calling me. Then I am still here when you want to.
 <br /><br />
 <a href="https://nbk.com.np/approach"><b>How I hand over</b></a>
-</blockquote>
 </td>
 </tr>
 </table>
@@ -315,7 +271,7 @@ Documentation, a walkthrough, and an editing experience your team can run withou
 <details>
 <summary><h3>THE NUMBERS &nbsp;·&nbsp; GitHub</h3></summary>
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center">
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=niyankhadka&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=94A3B8&include_all_commits=true&count_private=true" alt="GitHub stats" />
