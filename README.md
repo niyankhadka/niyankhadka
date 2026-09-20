@@ -13,19 +13,19 @@
 <details>
 <summary><h3>THE CRAFT &nbsp;·&nbsp; What I do</h3></summary>
 
+<br />
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<b>WordPress, any way you need it</b>
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><b>WordPress, any way you need it</b>
 <br /><br />
 <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Themes-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Plugins-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Builders-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-1E1B4B?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/approach#wordpress-development"><b>How I build</b></a>
 </td>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<b>SaaS system design and architecture</b>
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><b>SaaS system design and architecture</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Design-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Data-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/APIs-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat-square" />
 <br /><br />
@@ -82,6 +82,8 @@ Full detail on each lives on the approach page.
 </tr>
 </table>
 
+<br />
+
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:0891B2,100:0B1120&height=3" width="100%" alt="" />
@@ -89,19 +91,19 @@ Full detail on each lives on the approach page.
 <details>
 <summary><h3>SELECTED WORK &nbsp;·&nbsp; The ones where the decisions mattered</h3></summary>
 
+<br />
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<b>NepFI</b>
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><b>NepFI</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Founder-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2026-083344?style=flat-square" />
 <br /><br />
 <a href="https://nbk.com.np/projects/nepfi/"><b>View case study</b></a>
 </td>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<b>Newman</b>
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><b>Newman</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Rebuild-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Accounting-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
 <br /><br />
@@ -174,6 +176,8 @@ Full detail on each lives on the approach page.
 </tr>
 </table>
 
+<br />
+
 **MORE WORK** &nbsp;·&nbsp; Sixteen more, if you want the whole picture.
 
 | Project | Category | Year | | Project | Category | Year |
@@ -194,11 +198,12 @@ Full detail on each lives on the approach page.
 <details>
 <summary><h3>HOW I WORK &nbsp;·&nbsp; No surprises. That is the whole method.</h3></summary>
 
+<br />
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<img src="https://img.shields.io/badge/01-UNDERSTAND-D97706?style=for-the-badge&labelColor=78350F" />
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><img src="https://img.shields.io/badge/01-UNDERSTAND-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Before any code</b>
 <br /><br />
@@ -207,8 +212,7 @@ Who visits, what they need to do, and what working actually means in numbers. Mo
 <a href="https://nbk.com.np/approach"><b>How I start</b></a>
 </td>
 <td width="50%" valign="top">
-<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
-<img src="https://img.shields.io/badge/02-ARCHITECT-D97706?style=for-the-badge&labelColor=78350F" />
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" /><img src="https://img.shields.io/badge/02-ARCHITECT-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Decide the shape</b>
 <br /><br />
@@ -238,6 +242,8 @@ Documentation, a walkthrough, and an editing experience your team can run withou
 </td>
 </tr>
 </table>
+
+<br />
 
 </details>
 
@@ -292,6 +298,8 @@ Documentation, a walkthrough, and an editing experience your team can run withou
 </td>
 </tr>
 </table>
+
+<br />
 
 </details>
 
