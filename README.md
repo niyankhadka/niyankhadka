@@ -1,70 +1,64 @@
 <div align="center">
 
-# Hi there, I'm Nirajan Babu Khadka 👋
-### Web Developer & Systems Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nirajan+Babu+Khadka;Lead+Web+Developer+%26+Systems+Architect;DESIGN.+BUILD.+LEAD." alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/Portfolio-nbk.com.np-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nbk.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-hello%40nbk.com.np-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@nbk.com.np)
+*Connecting your brand to the digital world.*
 
-<br/>
-
-> *Connecting your brand to the digital world.*  
-> **DESIGN. BUILD. LEAD.**
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-nbk.com.np-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00E5FF&border=00E5FF)](https://nbk.com.np)
+[![Email](https://img.shields.io/badge/Email-hello%40nbk.com.np-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&border=EA4335)](mailto:hello@nbk.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-@niyankhadka-0D1117?style=for-the-badge&logo=github&logoColor=white&border=white)](https://github.com/niyankhadka)
 
 </div>
 
-### 🚀 About Me
+<br/>
 
-- 🌐 **Portfolio & Live Lab:** Check out my work at [nbk.com.np](https://nbk.com.np)
-- 💼 **Focus Areas:** High-performance custom WordPress builds, in-house CMS platforms, and scalable SaaS solutions.
-- ⚡ **Engineering Approach:** Zero pre-made templates, clean modular code, fast Core Web Vitals, and smooth interactive web experiences (Three.js & GSAP).
-- 🤝 **Collaboration:** Open to discussing system architecture, bespoke theme engines, and automation pipelines.
+### 🚀 Architectural Focus
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>💻 Engineering Approach</b><br/>
+      Transforming complex Figma designs into high-performance WordPress builds and scalable SaaS architectures. Zero pre-made templates, clean modular code, and strict adherence to Core Web Vitals.
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Systems & Automation</b><br/>
+      Streamlining everyday operations with smart AI automations (n8n, Zapier) and seamless third-party API integrations while driving consistent business growth.
+    </td>
+  </tr>
+</table>
 
----
+### 📦 Featured Digital Experiences
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>🏢 Corporate & SaaS</b><br/>
+      • <a href="https://figsflow.com/">Figs Flow</a><br/>
+      • <a href="https://boifincenreporting.com/">BOI FinCEN</a><br/>
+      • <a href="https://www.ukpropertyaccountants.co.uk/">UK Property Accountants</a><br/>
+      • <a href="https://sterlingandwells.com/">Sterling Wells</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>🏘️ Real Estate & Regional</b><br/>
+      • <a href="https://www.melcitypropertyservices.com.au/">Mel City Property</a><br/>
+      • <a href="https://bespokewoodflooring.co.uk/">Bespoke Wood Flooring</a><br/>
+      • <a href="https://www.deephomes.com.au/">Deep Homes</a><br/>
+      • <a href="https://nepaltaxes.com/">Nepal Taxes</a>
+    </td>
+    <td width="33%" valign="top">
+      <b>🎨 Global WP Themes</b><br/>
+      • <a href="https://wordpress.org/themes/gucherry-blog/">Gucherry Series</a><br/>
+      • <a href="https://wordpress.org/themes/grace-mag/">Grace Mag</a><br/>
+      • <a href="https://wordpress.org/themes/wishful-blog/">Wishful Blog</a>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Tooling
-
-**Core & Architecture**  
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend & Styling**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3/SCSS](https://img.shields.io/badge/CSS3%20%2F%20SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-
-**Workflow, Automation & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### 📦 Featured Work & Themes
-
-- 🎨 **[Gucherry Blog](https://wordpress.org/themes/gucherry-blog/) & [Gucherry Lite](https://wordpress.org/themes/gucherry-lite/):** Clean editorial WordPress themes powering thousands of active sites worldwide.
-- 📰 **[Grace Mag](https://wordpress.org/themes/grace-mag/) & [Wishful Blog](https://wordpress.org/themes/wishful-blog/):** Modern, responsive magazine themes built strictly to WordPress.org standards.
-- 💼 **Enterprise & SaaS Platforms:** Engineered platforms and user portals including [Figs Flow](https://figsflow.com/), [BOI FinCEN Reporting](https://boifincenreporting.com/), and [UK Property Accountants](https://www.ukpropertyaccountants.co.uk/).
-
----
+### 🛠️ Core Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,html,css,js,react,nextjs,python,tailwind,threejs,git,github,figma,vite&perline=14" />
+</p>
 
 ### 📊 GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=niyankhadka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyankhadka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=niyankhadka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00E5FF&title_color=00E5FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyankhadka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages" width="48%" />
 </div>
