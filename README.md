@@ -16,6 +16,7 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <b>WordPress, any way you need it</b>
 <br /><br />
 <img src="https://img.shields.io/badge/PHP-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Themes-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Plugins-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Builders-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Figma-1E1B4B?style=flat-square" />
@@ -23,6 +24,7 @@
 <a href="https://nbk.com.np/approach#wordpress-development"><b>How I build</b></a>
 </td>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <b>SaaS system design and architecture</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Design-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Data-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/APIs-1E1B4B?style=flat-square" /> <img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat-square" />
@@ -90,6 +92,7 @@ Full detail on each lives on the approach page.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <b>NepFI</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Founder-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/SaaS-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2026-083344?style=flat-square" />
@@ -97,6 +100,7 @@ Full detail on each lives on the approach page.
 <a href="https://nbk.com.np/projects/nepfi/"><b>View case study</b></a>
 </td>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <b>Newman</b>
 <br /><br />
 <img src="https://img.shields.io/badge/Rebuild-0891B2?style=flat-square" /> <img src="https://img.shields.io/badge/Accounting-083344?style=flat-square" /> <img src="https://img.shields.io/badge/2024-083344?style=flat-square" />
@@ -193,6 +197,7 @@ Full detail on each lives on the approach page.
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <img src="https://img.shields.io/badge/01-UNDERSTAND-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Before any code</b>
@@ -202,6 +207,7 @@ Who visits, what they need to do, and what working actually means in numbers. Mo
 <a href="https://nbk.com.np/approach"><b>How I start</b></a>
 </td>
 <td width="50%" valign="top">
+<img width="480" height="1" src="https://capsule-render.vercel.app/api?type=transparent&height=1&section=header" alt="" />
 <img src="https://img.shields.io/badge/02-ARCHITECT-D97706?style=for-the-badge&labelColor=78350F" />
 <br /><br />
 <b>Decide the shape</b>
